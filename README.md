@@ -16,7 +16,13 @@ Goal: After completing this tutorial, you will have uploaded a set of hotel revi
 ```python
 [sourcecode]
 ---
-path: my-script.py
+path: my_script.py
 ---
 
+```
+
+Some Markdown content...
+
+```python
+%load my_script.py
 ```
