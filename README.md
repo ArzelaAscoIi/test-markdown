@@ -26,3 +26,6 @@ Some Markdown content...
 ```python
 %load my_script.py
 ```
+
+[Link to my-python-script.py](my_script.py)
+
